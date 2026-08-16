@@ -1,0 +1,6 @@
+.env
+image.png
+rag.ipynb
+
+__pycache__/
+*.pyc
